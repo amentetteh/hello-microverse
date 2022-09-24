@@ -21,15 +21,24 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+* **Node Installation:** [Install node js](https://nodejs.org/en/download/)
+* **Install also a code editor**
 
-### Install
+### Setup & Install
+
+Download sources from [Github](https://github.com/amentetteh/hello-microverse/main.zip) or throught the command: \
+```
+git clone https://github.com/amentetteh/hello-microverse.git
+
+```
 
 ### Usage
 
-### Run tests
+After downloading source on your local machine, you can simply edit the HTML and CSS files from the folder. To preview the changes you make to the code, you can open the index.html file in your web browser.
 
 ### Deployment
+Deploy on any web hosting server cloud/in site and enjoy 
+
 
 
 
