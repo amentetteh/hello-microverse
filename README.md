@@ -26,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup & Install
 
-Download sources from [Github](https://github.com/amentetteh/hello-microverse/main.zip) or throught the command: \
+Download sources from [Github](https://github.com/amentetteh/hello-microverse/main.zip) or throught the command: 
 ```
 git clone https://github.com/amentetteh/hello-microverse.git
 
